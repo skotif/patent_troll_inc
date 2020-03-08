@@ -1,2 +1,2 @@
-# patent_troll_inc
-If you use this code you are gonna pay us 1000000$
+# This handy code owned by Patent Troll INC.
+Licence fee is 1000000$
